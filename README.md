@@ -1,5 +1,8 @@
 # 💫 About Me:
-Front-end developer.
+Olá, me chamo André Felipe tenho 23 anos e sou Front-end developer.
+Atuo na area de criação de webpages a algum tempo, aqui tem algumas das tecnologias que tenho pratica e alguns projetos pessoais e materiais de estudo.
+Amo tecnologia e amo aprender coisas novas :)
+Consagre tudo o que você faz ao Senhor e todos os seus planos serão bem sucedidos, Provérbios 16:3.
 
 
 ## 🌐 Socials:
