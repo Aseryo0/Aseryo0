@@ -13,7 +13,6 @@ Consagre tudo o que você faz ao Senhor e todos os seus planos serão bem sucedi
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=trnasparent_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Aseryo0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aseryo0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aseryo0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
